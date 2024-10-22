@@ -1,0 +1,230 @@
+/*
+#fc4371 vermelho
+#43fcd4 verde
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/* CABEÇALHO */
+header{
+    background-color: blueviolet;
+    height: 8vh;
+    width: 100%;
+    align-content: center;
+}
+
+header p{
+    font-size: 40px;
+    display: inline;
+    margin: 10vw;
+    font-family: 'Bebas Neue';
+}
+
+header span{
+    font-family: 'Bebas Neue';
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.493);
+}
+
+/* BARRA DE NAVEGAÇÃO */
+nav{
+    height: 10vh;
+    margin-top: 4vw;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    align-items: center;
+    display: flex;
+}
+
+.sorteio{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+    background-color: rgba(0, 0, 0, 0);
+    width: 180px;
+    height: 70px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.sorteio:hover{
+    border: 1px solid #43d1fc;
+}
+
+.sorteio img{
+    width: 55px;
+    border-radius: 3px;
+}
+
+.sorteio p{
+    font-size: 16px;
+    font-weight: bold;
+    width: 80px;
+    text-align: center;
+}
+
+.botaoPopUp{
+    background-color: blueviolet;
+    padding: 10px 20px;
+    border: 1px solid #43d1fc00;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: auto;
+}
+
+.botaoPopUp:hover{
+    border: 1px solid #43d1fc;
+}
+
+#popup{
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    align-content: center;
+}
+
+.popup-content{
+    padding: 20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    background-color: #dfdfdf;
+    border: 10px solid blueviolet;
+    border-radius: 5px;
+    box-shadow: 0 0 40px white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 30px;
+}
+
+.regraGeral{
+    grid-column: 1 / -1;
+    display: grid;
+    gap: 5px;
+}
+
+.regraGeral h1{
+    margin-bottom: 10px;
+}
+
+.obs{
+    margin-top: 10px;
+    font-size: 13px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #fc4371;
+}
+
+.popup-content h2{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.expl{
+    margin-top: 10px;
+    font-size: 13px;
+    text-align: justify;
+}
+
+.no-scroll {
+    overflow: hidden; /* Impede a rolagem quando o pop-up está aberto */
+}
+
+/* CORPO */
+main{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+main .campeao:hover{
+    box-shadow: 0 0 20px #43d1fc;
+}
+
+#listaCampeoes{
+    margin-top: 5vh;
+}
+
+.campeao {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.campeao h2{
+    font-size: 16px;
+    text-align: center;
+}
+
+.letra-container{
+    width: 100%;
+    height: 5vh;
+    grid-column: 1 / -1;
+    border-bottom: 1px solid #ccc;
+    align-content: center;
+    margin-top: 5vh;
+}
+
+.letra{
+    display: inline;
+    margin-top: 20px;
+    font-size: 24px;
+    padding: 10px;
+}
+
+.camp-container {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 10px;
+    justify-items: center;
+}
+
+/* RODAPÉ */
+footer{
+    background-color: blueviolet;
+    margin-top: 16vh;
+    padding-top: 4vh;
+    padding-right: 10vw;
+    padding-left: 10vw;
+    height: 20vh;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+footer h1{
+    font-size: 18px;
+    margin-bottom: 0.5vw;
+}
+
+.email a{
+    color: black;
+}
+
+.email h2{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 0.5vw;
+}

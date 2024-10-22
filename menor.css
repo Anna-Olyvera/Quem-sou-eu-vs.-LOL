@@ -1,0 +1,74 @@
+@media (max-width: 600px){
+    
+    /* BARRA DE NAVEGAÇÃO */
+    nav{
+        margin-top: 7vh;
+    }
+
+    .popup-content{
+        margin-left: 8vw;
+        margin-right: 8vw;
+        border: 8px solid blueviolet;
+        grid-template-columns: 1fr;
+        gap: 17px;
+        padding: 16px;
+    }
+
+    .popup-content p{
+        font-size: 14px;
+    }
+
+    .regraGeral h1{
+        font-size: 18px;
+        margin-bottom: 3px;
+    }
+    
+    .obs{
+        margin-top: 5px;
+        font-size: 12px;
+    }
+
+    .popup-content h2{
+        margin-bottom: 4px;
+        font-size: 15px;
+    }
+
+    /* CORPO */
+
+    #listaCampeoes{
+        margin-top: 10vh;
+    }
+
+    .campeao {
+        padding: 8px;
+        margin: 5px;
+        border-radius: 3px;
+        width: 80px;
+    }
+
+    .campeao h2{
+        font-size: 13px;
+    }
+
+    .campeao img{
+        max-width: 80px;
+    }
+
+    .camp-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (min-width: 601px) and (max-width: 869px){
+    
+    .camp-container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+@media (min-width: 870px) and (max-width: 1155px){
+    
+    .camp-container {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}

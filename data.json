@@ -1,0 +1,339 @@
+{
+    "campeoes": [
+        {"id": 1, "nome": "Aatrox", "foto": "imagens/aatrox.webp"},
+
+        {"id": 2, "nome": "Ahri", "foto": "imagens/ahri.webp"},
+
+        {"id": 3, "nome": "Akali", "foto": "imagens/akali.webp"},
+
+        {"id": 4, "nome": "Akshan", "foto": "imagens/akshan.webp"},
+
+        {"id": 5, "nome": "Alistar", "foto": "imagens/alistar.webp"},
+
+        {"id": 6, "nome": "Amumu", "foto": "imagens/amumu.webp"},
+
+        {"id": 7, "nome": "Anivia", "foto": "imagens/anivia.webp"},
+
+        {"id": 8, "nome": "Annie", "foto": "imagens/annie.webp"},
+
+        {"id": 9, "nome": "Aphelios", "foto": "imagens/aphelios.jpg"},
+
+        {"id": 10, "nome": "Ashe", "foto": "imagens/ashe.webp"},
+
+        {"id": 11, "nome": "Aurelion Sol", "foto": "imagens/aurelionSol.webp"},
+
+        {"id": 12, "nome": "Aurora", "foto": "imagens/aurora.webp"},
+
+        {"id": 13, "nome": "Azir", "foto": "imagens/azir.webp"},
+        
+        {"id": 14, "nome": "Bardo", "foto": "imagens/bardo.webp"},
+
+        {"id": 15, "nome": "Bel'veth", "foto": "imagens/bel'veth.webp"},
+
+        {"id": 16, "nome": "Blitzcrank", "foto": "imagens/blitzcrank.webp"},
+
+        {"id": 17, "nome": "Brand", "foto": "imagens/brand.webp"},
+
+        {"id": 18, "nome": "Braum", "foto": "imagens/braum.webp"},
+
+        {"id": 19, "nome": "Briar", "foto": "imagens/briar.webp"},
+
+        {"id": 20, "nome": "Caitlyn", "foto": "imagens/caitlyn.webp"},
+
+        {"id": 21, "nome": "Camille", "foto": "imagens/camille.webp"},
+
+        {"id": 22, "nome": "Cassiopeia", "foto": "imagens/cassiopeia.webp"},
+
+        {"id": 23, "nome": "Cho'gath", "foto": "imagens/cho'gath.webp"},
+
+        {"id": 24, "nome": "Corki", "foto": "imagens/corki.webp"},
+
+        {"id": 25, "nome": "Darius", "foto": "imagens/darius.webp"},
+
+        {"id": 26, "nome": "Diana", "foto": "imagens/diana.webp"},
+
+        {"id": 27, "nome": "Dr. Mundo", "foto": "imagens/drMundo.webp"},
+
+        {"id": 28, "nome": "Draven", "foto": "imagens/draven.webp"},
+
+        {"id": 29, "nome": "Ekko", "foto": "imagens/ekko.webp"},
+
+        {"id": 30, "nome": "Elise", "foto": "imagens/elise.webp"},
+
+        {"id": 31, "nome": "Evelynn", "foto": "imagens/evelynn.webp"},
+
+        {"id": 32, "nome": "Ezreal", "foto": "imagens/ezreal.webp"},
+
+        {"id": 33, "nome": "Fiddlesticks", "foto": "imagens/fiddlesticks.webp"},
+
+        {"id": 34, "nome": "Fiora", "foto": "imagens/fiora.webp"},
+
+        {"id": 35, "nome": "Fizz", "foto": "imagens/fizz.webp"},
+
+        {"id": 36, "nome": "Galio", "foto": "imagens/galio.webp"},
+
+        {"id": 37, "nome": "Gangplank", "foto": "imagens/gangplank.webp"},
+
+        {"id": 38, "nome": "Garen", "foto": "imagens/garen.webp"},
+
+        {"id": 39, "nome": "Gnar", "foto": "imagens/gnar.webp"},
+
+        {"id": 40, "nome": "Gragas", "foto": "imagens/gragas.webp"},
+
+        {"id": 41, "nome": "Graves", "foto": "imagens/graves.webp"},
+
+        {"id": 42, "nome": "Gwen", "foto": "imagens/gwen.webp"},
+
+        {"id": 43, "nome": "Hecarim", "foto": "imagens/hecarim.webp"},
+
+        {"id": 44, "nome": "Heimerdinger", "foto": "imagens/heimerdinger.webp"},
+
+        {"id": 45, "nome": "Hwei", "foto": "imagens/hwei.webp"},
+
+        {"id": 46, "nome": "Illaoi", "foto": "imagens/illaoi.webp"},
+
+        {"id": 47, "nome": "Irelia", "foto": "imagens/irelia.webp"},
+
+        {"id": 48, "nome": "Ivern", "foto": "imagens/ivern.webp"},
+
+        {"id": 49, "nome": "Janna", "foto": "imagens/janna.webp"},
+
+        {"id": 50, "nome": "Jarvan IV", "foto": "imagens/jarvanIV.webp"},
+
+        {"id": 51, "nome": "Jax", "foto": "imagens/jax.webp"},
+
+        {"id": 52, "nome": "Jayce", "foto": "imagens/jayce.webp"},
+
+        {"id": 53, "nome": "Jhin", "foto": "imagens/jhin.webp"},
+
+        {"id": 54, "nome": "Jinx", "foto": "imagens/jinx.webp"},
+
+        {"id": 55, "nome": "K'sante", "foto": "imagens/k'sante.webp"},
+
+        {"id": 56, "nome": "Kai'sa", "foto": "imagens/kai'sa.webp"},
+
+        {"id": 57, "nome": "Kalista", "foto": "imagens/kalista.webp"},
+
+        {"id": 58, "nome": "Karma", "foto": "imagens/karma.webp"},
+
+        {"id": 59, "nome": "Karthus", "foto": "imagens/karthus.webp"},
+
+        {"id": 60, "nome": "Kassadin", "foto": "imagens/kassadin.webp"},
+
+        {"id": 61, "nome": "Katarina", "foto": "imagens/katarina.webp"},
+
+        {"id": 62, "nome": "Kayle", "foto": "imagens/kayle.webp"},
+
+        {"id": 63, "nome": "Kayn", "foto": "imagens/kayn.webp"},
+
+        {"id": 64, "nome": "Kennen", "foto": "imagens/kennen.webp"},
+
+        {"id": 65, "nome": "Kha'zix", "foto": "imagens/kha'zix.webp"},
+
+        {"id": 66, "nome": "Kindred", "foto": "imagens/kindred.webp"},
+
+        {"id": 67, "nome": "Kled", "foto": "imagens/kled.webp"},
+
+        {"id": 68, "nome": "Kog'maw", "foto": "imagens/kog'maw.webp"},
+        
+        {"id": 69, "nome": "Leblanc", "foto": "imagens/leblanc.webp"},
+        
+        {"id": 70, "nome": "Lee Sin", "foto": "imagens/leeSin.webp"},
+
+        {"id": 71, "nome": "Leona", "foto": "imagens/leona.webp"},
+
+        {"id": 72, "nome": "Lillia", "foto": "imagens/lillia.jpg"},
+
+        {"id": 73, "nome": "Lissandra", "foto": "imagens/lissandra.webp"},
+
+        {"id": 74, "nome": "Lucian", "foto": "imagens/lucian.webp"},
+
+        {"id": 75, "nome": "Lulu", "foto": "imagens/lulu.webp"},
+
+        {"id": 76, "nome": "Lux", "foto": "imagens/lux.webp"},
+
+        {"id": 77, "nome": "Malphite", "foto": "imagens/malphite.webp"},
+
+        {"id": 78, "nome": "Malzahar", "foto": "imagens/malzahar.webp"},
+
+        {"id": 79, "nome": "Maokai", "foto": "imagens/maokai.webp"},
+
+        {"id": 80, "nome": "Master Yi", "foto": "imagens/masterYi.webp"},
+
+        {"id": 81, "nome": "Milio", "foto": "imagens/milio.webp"},
+
+        {"id": 82, "nome": "Miss Fortune", "foto": "imagens/missFortune.webp"},
+
+        {"id": 83, "nome": "Mordekaiser", "foto": "imagens/mordekaiser.webp"},
+
+        {"id": 84, "nome": "Morgana", "foto": "imagens/morgana.webp"},
+
+        {"id": 85, "nome": "Naafiri", "foto": "imagens/naafiri.webp"},
+
+        {"id": 86, "nome": "Nami", "foto": "imagens/nami.webp"},
+
+        {"id": 87, "nome": "Nasus", "foto": "imagens/nasus.webp"},
+
+        {"id": 88, "nome": "Nautilus", "foto": "imagens/nautilus.webp"},
+
+        {"id": 89, "nome": "Neeko", "foto": "imagens/neeko.webp"},
+
+        {"id": 90, "nome": "Nidalee", "foto": "imagens/nidalee.webp"},
+
+        {"id": 91, "nome": "Nilah", "foto": "imagens/nilah.webp"},
+
+        {"id": 92, "nome": "Nocturne", "foto": "imagens/nocturne.webp"},
+
+        {"id": 93, "nome": "Nunu e Willump", "foto": "imagens/nunuEwillump.webp"},
+
+        {"id": 94, "nome": "Olaf", "foto": "imagens/olaf.webp"},
+
+        {"id": 95, "nome": "Orianna", "foto": "imagens/orianna.webp"},
+
+        {"id": 96, "nome": "Ornn", "foto": "imagens/ornn.webp"},
+
+        {"id": 97, "nome": "Pantheon", "foto": "imagens/pantheon.webp"},
+
+        {"id": 98, "nome": "Poppy", "foto": "imagens/poppy.webp"},
+
+        {"id": 99, "nome": "Pyke", "foto": "imagens/pyke.webp"},
+
+        {"id": 100, "nome": "Qiyana", "foto": "imagens/qiyana.webp"},
+
+        {"id": 101, "nome": "Quinn", "foto": "imagens/quinn.webp"},
+
+        {"id": 102, "nome": "Rakan", "foto": "imagens/rakan.webp"},
+
+        {"id": 103, "nome": "Rammus", "foto": "imagens/rammus.webp"},
+
+        {"id": 104, "nome": "Rek'sai", "foto": "imagens/rek'sai.webp"},
+
+        {"id": 105, "nome": "Rell", "foto": "imagens/rell.webp"},
+
+        {"id": 106, "nome": "Renata Glasc", "foto": "imagens/renataGlasc.webp"},
+
+        {"id": 107, "nome": "Renekton", "foto": "imagens/renekton.webp"},
+
+        {"id": 108, "nome": "Rengar", "foto": "imagens/rengar.webp"},
+        
+        {"id": 109, "nome": "Riven", "foto": "imagens/riven.webp"},
+
+        {"id": 110, "nome": "Rumble", "foto": "imagens/rumble.webp"},
+
+        {"id": 111, "nome": "Ryze", "foto": "imagens/ryze.webp"},
+
+        {"id": 112, "nome": "Samira", "foto": "imagens/samira.jpg"},
+
+        {"id": 113, "nome": "Sejuani", "foto": "imagens/sejuani.webp"},
+
+        {"id": 114, "nome": "Senna", "foto": "imagens/senna.webp"},
+
+        {"id": 115, "nome": "Seraphine", "foto": "imagens/seraphine.jpg"},
+
+        {"id": 116, "nome": "Sett", "foto": "imagens/sett.jpg"},
+
+        {"id": 117, "nome": "Shaco", "foto": "imagens/shaco.webp"},
+
+        {"id": 118, "nome": "Shen", "foto": "imagens/shen.webp"},
+
+        {"id": 119, "nome": "Shyvana", "foto": "imagens/shyvana.webp"},
+
+        {"id": 120, "nome": "Singed", "foto": "imagens/singed.webp"},
+
+        {"id": 121, "nome": "Sion", "foto": "imagens/sion.webp"},
+
+        {"id": 122, "nome": "Sivir", "foto": "imagens/sivir.webp"},
+
+        {"id": 123, "nome": "Skarner", "foto": "imagens/skarner.webp"},
+
+        {"id": 124, "nome": "Smolder", "foto": "imagens/smolder.webp"},
+
+        {"id": 125, "nome": "Sona", "foto": "imagens/sona.webp"},
+
+        {"id": 126, "nome": "Soraka", "foto": "imagens/soraka.webp"},
+
+        {"id": 127, "nome": "Swain", "foto": "imagens/swain.webp"},
+
+        {"id": 128, "nome": "Sylas", "foto": "imagens/sylas.webp"},
+
+        {"id": 129, "nome": "Syndra", "foto": "imagens/syndra.webp"},
+
+        {"id": 130, "nome": "Tahm Kench", "foto": "imagens/tahmKench.webp"},
+
+        {"id": 131, "nome": "Taliyah", "foto": "imagens/taliyah.webp"},
+
+        {"id": 132, "nome": "Talon", "foto": "imagens/talon.webp"},
+
+        {"id": 133, "nome": "Taric", "foto": "imagens/taric.webp"},
+
+        {"id": 134, "nome": "Teemo", "foto": "imagens/teemo.webp"},
+
+        {"id": 135, "nome": "Thresh", "foto": "imagens/thresh.webp"},
+
+        {"id": 136, "nome": "Thundle", "foto": "imagens/thundle.webp"},
+
+        {"id": 137, "nome": "Tristana", "foto": "imagens/tristana.webp"},
+
+        {"id": 138, "nome": "Tryndamere", "foto": "imagens/tryndamere.webp"},
+
+        {"id": 139, "nome": "Twisted Fate", "foto": "imagens/twistedFate.webp"},
+
+        {"id": 140, "nome": "Twitch", "foto": "imagens/twitch.webp"},
+
+        {"id": 141, "nome": "Udyr", "foto": "imagens/udyr.webp"},
+
+        {"id": 142, "nome": "Urgot", "foto": "imagens/urgot.webp"},
+
+        {"id": 143, "nome": "Varus", "foto": "imagens/varus.webp"},
+
+        {"id": 144, "nome": "Vayne", "foto": "imagens/vayne.webp"},
+
+        {"id": 145, "nome": "Veigar", "foto": "imagens/veigar.webp"},
+
+        {"id": 146, "nome": "Vel'koz", "foto": "imagens/vel'koz.webp"},
+
+        {"id": 147, "nome": "Vex", "foto": "imagens/vex.webp"},
+
+        {"id": 148, "nome": "VI", "foto": "imagens/vi.webp"},
+
+        {"id": 149, "nome": "Viego", "foto": "imagens/viego.webp"},
+
+        {"id": 150, "nome": "Viktor", "foto": "imagens/viktor.webp"},
+
+        {"id": 151, "nome": "Vladimir", "foto": "imagens/vladimir.webp"},
+
+        {"id": 152, "nome": "Volibear", "foto": "imagens/volibear.jpg"},
+
+        {"id": 153, "nome": "Warwick", "foto": "imagens/warwick.webp"},
+
+        {"id": 154, "nome": "Wukong", "foto": "imagens/wukong.webp"},
+
+        {"id": 155, "nome": "Xayah", "foto": "imagens/xayah.webp"},
+
+        {"id": 156, "nome": "Xerath", "foto": "imagens/xerath.webp"},
+
+        {"id": 157, "nome": "Xin Zhao", "foto": "imagens/xinZhao.webp"},
+
+        {"id": 158, "nome": "Yasuo", "foto": "imagens/yasuo.webp"},
+
+        {"id": 159, "nome": "Yone", "foto": "imagens/yone.jpg"},
+
+        {"id": 160, "nome": "Yorick", "foto": "imagens/yorick.webp"},
+
+        {"id": 161, "nome": "Yuumi", "foto": "imagens/yuumi.webp"},
+
+        {"id": 162, "nome": "Zac", "foto": "imagens/zac.webp"},
+
+        {"id": 163, "nome": "Zed", "foto": "imagens/zed.webp"},
+
+        {"id": 164, "nome": "Zeri", "foto": "imagens/zeri.webp"},
+
+        {"id": 165, "nome": "Ziggs", "foto": "imagens/ziggs.webp"},
+
+        {"id": 166, "nome": "Zilean", "foto": "imagens/zilean.webp"},
+
+        {"id": 167, "nome": "Zoe", "foto": "imagens/zoe.webp"},
+
+        {"id": 168, "nome": "Zyra", "foto": "imagens/zyra.webp"}
+    ]
+}
